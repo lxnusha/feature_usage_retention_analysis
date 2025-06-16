@@ -83,7 +83,7 @@ Gives a high-level snapshot of product health and retention across key user segm
 - **Combo Chart**: Login Frequency vs Retention by Tenure Bucket  
   → *Reveals the lifecycle stage where retention starts dropping*
 
-![Page 1](dashboard_images/page1.png)
+<img src="Page1.png" alt="Page 1 Preview"/>
 
 ---
 
@@ -106,7 +106,7 @@ Analyzes user behavior patterns to surface retention drivers and satisfaction si
 
  *Supports product managers in refining feature strategies and targeting feature adoption campaigns.*
 
-![Page 2](dashboard_images/page2.png)
+<img src="Page2.png" alt="Page 2 Preview"/>
 
 ---
 
@@ -129,7 +129,7 @@ Evaluates how different subscription plans affect retention, satisfaction, and f
 
  *Helps marketing and product teams personalize plan offerings and pricing.*
 
-![Page 3](dashboard_images/page3.png)
+<img src="Page3.png" alt="Page 3 Preview"/>
 
 ---
 
@@ -155,7 +155,7 @@ Pinpoints users most at risk of churning using behavioral thresholds and predict
 
  *Empowers CS teams to proactively intervene, re-engage, or design win-back campaigns.*
 
-![Page 4](dashboard_images/page4.png)
+<img src="Page4.png" alt="Page 4 Preview"/>
 
 ---
 ##  Key Insights
